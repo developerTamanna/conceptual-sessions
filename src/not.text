@@ -1,0 +1,13 @@
+meal categories api      
+
+https://www.themealdb.com/api/json/v1/1/categories.php
+
+
+
+meal by category api 
+
+https://www.themealdb.com/api/json/v1/1/filter.php?c=Beef
+
+
+
+    
